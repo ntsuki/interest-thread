@@ -1,6 +1,6 @@
 # interest-megathread
 List of every software/links related to cool things i like to do on my computer!
-
+![I LOVE COMPUTER image.](https://github.com/ntsuki/interest-megathread/blob/master/ilovecomputers.png)
 ## Emulation
 ### Playstation
 - [Duckstation](https://github.com/stenzek/duckstation) Playstation 1 emulator
