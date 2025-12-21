@@ -1,7 +1,7 @@
 # interest-megathread
 List of every software/links related to cool things i like to do on my computer!
 
-## Emulation:
+## Emulation
 ### Playstation
 - [Duckstation](https://github.com/stenzek/duckstation) Playstation 1 emulator
 - [PCSX2](https://github.com/PCSX2/pcsx2) Playstation 2 emulator
@@ -21,7 +21,7 @@ List of every software/links related to cool things i like to do on my computer!
 
 [r/Roms Megathread](https://r-roms.github.io/)
 
-## Piracy:
+## Piracy
 [Megathread for piracy](https://www.reddit.com/r/Piracy/wiki/megathread/)<br/>
 [FreeMediaHeckYeah](https://fmhy.net/)
 
