@@ -1,7 +1,7 @@
 # interest-megathread
 List of every software/links related to cool things i like to do on my computer!
 
-$${\color{red}The \space provided \space links \space may \space change \space over \space time.\space I \space recommend \space searching \space for \space them \space yourself \space via \space Google.\space Use \space at \space your \space own \space risk \space !}$$
+**The provided links may change over time. I recommend Googling them yourself, otherwise use the links at your own risk !**
 
 ![I LOVE COMPUTER image.](https://github.com/ntsuki/interest-megathread/blob/master/ilovecomputers.png)
 
@@ -49,5 +49,19 @@ $${\color{red}The \space provided \space links \space may \space change \space o
 - [ImgBurn](https://www.imgburn.com/) CD, DVD, HD DVD, Bluray burning application
 - [MakeMKV](https://www.makemkv.com/) DVD & Bluray ripping software
 - [MKVToolNix](https://mkvtoolnix.download/) Set of tools to Create, Alter and Inspect files
-- [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/mkvcleaver-downloads/) GUI for MKVExtract.exe (extract tool for tracks, attachments, tags, subtitles from an MKV file)
-- 
+- [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/mkvcleaver-downloads/) GUI for MKVExtract.exe (extract tool for tracks, attachments, tags, subtitles, from an MKV file)
+- [HandBrake](https://github.com/HandBrake/HandBrake) Open-Source software for convertir video
+- [MediaInfo](https://mediaarea.net/en/MediaInfo) Software to display technical information about media files
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) Feature-rich command-line audio/video downloader
+- [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) GUI for yt-dlp
+- [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) Free Bulk Program uninstaller
+- [Everything](https://www.voidtools.com/) Search engine that locates files and folders by name instantly
+- [FilterKeys Setter](https://filterkeyssetter.com/) Set faster repeat input keyboard strokes
+- [Switch Hitter](https://www.majorgeeks.com/files/details/switch_hitter.html) Key Actuation testing
+- [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) Hardware monitoring program
+- [WizTree](https://www.diskanalyzer.com/) Disk Space Analyzer
+- [WinMerge](https://github.com/winmerge/winmerge) Open-Source software to compare files/folders
+- [AutoHotkey](https://www.autohotkey.com/) Open-Source scripting software
+- [Windhawk](https://github.com/ramensoftware/windhawk) Windows customization program
+- [Winaero Tweaker](https://winaerotweaker.com/) Tuning of various Windows settings and features
+- [Fan Control](https://github.com/Rem0o/FanControl.Releases) Fan control software
