@@ -1,6 +1,8 @@
 # interest-megathread
 List of every software/links related to cool things i like to do on my computer!
 
+$${\color{red}The \space provided \space links \space may \space change \space over \space time.\space I \space recommend \space searching \space for \space them \space yourself \space via \space Google.\space Use \space at \space your \space own \space risk \space !}$$
+
 ![I LOVE COMPUTER image.](https://github.com/ntsuki/interest-megathread/blob/master/ilovecomputers.png)
 
 ## Emulation
@@ -39,3 +41,13 @@ List of every software/links related to cool things i like to do on my computer!
 
 **Recommended addons for stremio. [Torrentio](https://torrentio.strem.fun/configure), [AIOStreams](https://aiostreams.elfhosted.com/stremio/configure), ThePirateBay+, OpenSubtitles v3, The Movie Database.*
   
+## Software
+- [MusicBee](https://getmusicbee.com/) Music Manager/Player
+- [MusicPresence](https://github.com/ungive/discord-music-presence) Discord Rich Presence for media players
+- [Exact Audio Copy](https://www.exactaudiocopy.de/) CD's Ripping software
+- [MP3Tag](https://www.mp3tag.de/en/) Free Metadata editing tool for audio files
+- [ImgBurn](https://www.imgburn.com/) CD, DVD, HD DVD, Bluray burning application
+- [MakeMKV](https://www.makemkv.com/) DVD & Bluray ripping software
+- [MKVToolNix](https://mkvtoolnix.download/) Set of tools to Create, Alter and Inspect files
+- [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/mkvcleaver-downloads/) GUI for MKVExtract.exe (extract tool for tracks, attachments, tags, subtitles from an MKV file)
+- 
