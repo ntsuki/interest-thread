@@ -50,7 +50,8 @@ List of every software/links related to cool things i like to do on my computer!
 - [MakeMKV](https://www.makemkv.com/) DVD & Bluray ripping software
 - [MKVToolNix](https://mkvtoolnix.download/) Set of tools to Create, Alter and Inspect files
 - [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/mkvcleaver-downloads/) GUI for MKVExtract.exe (extract tool for tracks, attachments, tags, subtitles, from an MKV file)
-- [HandBrake](https://github.com/HandBrake/HandBrake) Open-Source software for convertir video
+- [HandBrake](https://github.com/HandBrake/HandBrake) Open-Source video converter software 
+- [ShutterEncoder](https://www.shutterencoder.com/) Video converter software
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) Software to display technical information about media files
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) Feature-rich command-line audio/video downloader
 - [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) GUI for yt-dlp
@@ -64,4 +65,33 @@ List of every software/links related to cool things i like to do on my computer!
 - [AutoHotkey](https://www.autohotkey.com/) Open-Source scripting software
 - [Windhawk](https://github.com/ramensoftware/windhawk) Windows customization program
 - [Winaero Tweaker](https://winaerotweaker.com/) Tuning of various Windows settings and features
+- [Explorer Patcher](https://github.com/valinet/ExplorerPatcher) Windows Explorer tweaker
 - [Fan Control](https://github.com/Rem0o/FanControl.Releases) Fan control software
+- [Upscayl](https://github.com/upscayl/upscayl) Free & Open-Source AI Image Upscaler
+- [YACReader](https://github.com/YACReader/yacreader) Comic/Manga reader
+- [Krita](https://invent.kde.org/graphics/krita) Free & Open-Source digital art software
+- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) Editing Software
+- [Gimp](https://www.gimp.org/) GNU Image Manipulation Program
+- [Aseprite](https://github.com/aseprite/aseprite/) Animated sprite editor & Pixel Art Tool
+- [OBS Studio](https://github.com/obsproject/obs-studio) Free & Open-Source video recording and live streaming software
+- [Chatterino](https://github.com/chatterino/chatterino2) Twitch chat client
+- [HexChat](https://hexchat.github.io/) IRC client
+- [Obsidian](https://github.com/obsidianmd) Note taking software
+- [Voicemeeter (Banana)](https://vb-audio.com/Voicemeeter/banana.htm) Virtual Audio Mixer software
+- [Audacity](https://github.com/audacity) Audio editing & recording software
+- [Vencord](https://github.com/Vendicated/Vencord) Discord client Mod
+- [IrfanView](https://www.irfanview.com/) Image Viewer
+- [LibreOffice](https://www.libreoffice.org/) Free & Open Source productivity software
+- [Parsec](https://parsec.app/downloads) Remote Desktop software
+- [Steam Achievement Manager](https://github.com/gibbed/SteamAchievementManager) Steam Achievement Manager
+- [LocalSend](https://localsend.org) Open source cross-platform file sharing software
+
+## Linux specific
+- [RMPC](https://github.com/mierak/rmpc) Terminal based Music Player Daemon client
+- [Dunst](https://github.com/dunst-project/dunst) Lightweight notification Daemon
+- [Kitty](https://github.com/kovidgoyal/kitty) GPU based Terminal Emulator
+- [BTop](https://github.com/aristocratos/btop) Resource monitor that shows usage and stats for processor, memory, disks, network and processes
+- [Rofi](https://github.com/davatorium/rofi) Application Launcher
+- [Yazi](https://github.com/sxyazi/yazi) Terminal based file manager
+- [Polybar](https://github.com/polybar/polybar) Customizable status bars
+- [Bspwm](https://github.com/baskerville/bspwm) Tiling window manager
