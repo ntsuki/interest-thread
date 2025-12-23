@@ -31,7 +31,7 @@ List of every software/links related to cool things i like to do on my computer!
 
 - [qBittorent](https://github.com/qbittorrent/qBittorrent/) Free Open-Source BitTorrent client
 - [Plex](https://github.com/plexinc) Multimedia streaming service
-- [1337x.to](https://1337x.to/) Torrent search engine
+- [1337x.to](https://1337x.to) Torrent search engine
 - [Real Debrid](https://real-debrid.com/) Debrid service
 - [Stremio](https://github.com/Stremio)* Content aggregator
 - [FitGirl Repacks](https://fitgirl-repacks.site/) Video game repacks
