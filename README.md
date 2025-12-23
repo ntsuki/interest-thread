@@ -84,7 +84,7 @@ List of every software/links related to cool things i like to do on my computer!
 - [LibreOffice](https://www.libreoffice.org/) Free & Open Source productivity software
 - [Parsec](https://parsec.app/downloads) Remote Desktop software
 - [Steam Achievement Manager](https://github.com/gibbed/SteamAchievementManager) Steam Achievement Manager
-- [LocalSend](https://localsend.org) Open source cross-platform file sharing software
+- [LocalSend](https://github.com/localsend/localsend) Open source cross-platform file sharing software
 
 ## Linux specific
 - [RMPC](https://github.com/mierak/rmpc) Terminal based Music Player Daemon client
