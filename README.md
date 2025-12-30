@@ -85,6 +85,7 @@ List of every software/links related to cool things i like to do on my computer!
 - [Parsec](https://parsec.app/downloads) - Remote Desktop software
 - [Steam Achievement Manager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager
 - [LocalSend](https://localsend.org) - Open source cross-platform file sharing software ([Source Code](https://github.com/localsend/localsend))
+- [Docker](https://www.docker.com/) - Container ecosystemm software ([Source Code](https://github.com/docker))
 
 ## Linux specific
 - [RMPC](https://github.com/mierak/rmpc) - Terminal based Music Player Daemon client
