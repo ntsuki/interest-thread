@@ -96,3 +96,6 @@ List of every software/links related to cool things i like to do on my computer!
 - [Yazi](https://github.com/sxyazi/yazi) - Terminal based file manager
 - [Polybar](https://github.com/polybar/polybar) - Customizable status bars
 - [Bspwm](https://github.com/baskerville/bspwm) - Tiling window manager
+
+## Other
+- [Pandora](https://www.pandora.com) Music streaming website
