@@ -10,7 +10,7 @@ List of every software/links related to cool things i like to do on my computer!
 - [Duckstation](https://www.duckstation.org/) - Playstation 1 emulator ([Source Code](https://github.com/stenzek/duckstation))
 - [PCSX2](https://pcsx2.net/) - Playstation 2 emulator ([Source Code](https://github.com/PCSX2/pcsx2))
 - [RPCS3](https://rpcs3.net/) - Playstation 3 emulator ([Source Code](https://github.com/RPCS3/rpcs3))
-- [ShadPS4](https://rpcs3.net/) - Playstation 4 emulator ([Source Code](https://github.com/shadps4-emu/shadps4))
+- [ShadPS4](https://shadps4.net/) - Playstation 4 emulator ([Source Code](https://github.com/shadps4-emu/shadps4))
 
 ### Nintendo
 - [Project64](https://www.pj64-emu.com/) - Nintendo 64 emulator ([Source Code](https://github.com/project64/project64))
