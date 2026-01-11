@@ -33,6 +33,7 @@ List of every software/links related to cool things i like to do on my computer!
 - [Plex](https://www.plex.tv/) - Multimedia streaming service ([Source Code](https://github.com/plexinc))
 - [1337x.to](https://1337x.to/home/) - Torrent search engine
 - [Real Debrid](https://real-debrid.com/) - Debrid service
+- [Debrid Media Manager](https://debridmediamanager.com/) - Debrid Media Manager ([Source Code](https://github.com/debridmediamanager/debrid-media-manager))
 - [Stremio](https://www.stremio.com/)* - Content aggregator ([Source Code](https://github.com/Stremio))
 - [FitGirl Repacks](https://fitgirl-repacks.site/) - Video game repacks
 - [Soulseek](https://www.slsknet.org/news/) - Free file sharing network
