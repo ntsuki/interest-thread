@@ -37,7 +37,7 @@ List of every software/links related to cool things i like to do on my computer!
 - [Stremio](https://www.stremio.com/)* - Content aggregator ([Source Code](https://github.com/Stremio))
 - [FitGirl Repacks](https://fitgirl-repacks.site/) - Video game repacks
 - [Soulseek](https://www.slsknet.org/news/) - Free file sharing network
-- [GoFile](https://gofile.io/home) - Cloud Storage to share stuff
+- [GoFile](https://gofile.io/home) - Temporary Cloud Storage to share stuff
 - [Microsoft Activation Script (MAS)](https://massgrave.dev/) - Open-source Windows and Office activator ([Source Code](https://github.com/massgravel/Microsoft-Activation-Scripts))
 
 **Recommended addons for stremio. [Torrentio](https://torrentio.strem.fun/configure), [AIOStreams](https://aiostreams.elfhosted.com/stremio/configure), ThePirateBay+, OpenSubtitles v3, The Movie Database.*
