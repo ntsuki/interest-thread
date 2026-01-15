@@ -34,6 +34,7 @@ List of every software/links related to cool things i like to do on my computer!
 - [1337x.to](https://1337x.to/home/) - Torrent search engine
 - [Real Debrid](https://real-debrid.com/) - Debrid service
 - [Debrid Media Manager](https://debridmediamanager.com/) - Debrid Media Manager ([Source Code](https://github.com/debridmediamanager/debrid-media-manager))
+- [JDownloader](https://jdownloader.org) - Download Manager Tool
 - [Stremio](https://www.stremio.com/)* - Content aggregator ([Source Code](https://github.com/Stremio))
 - [FitGirl Repacks](https://fitgirl-repacks.site/) - Video game repacks
 - [Soulseek](https://www.slsknet.org/news/) - Free file sharing network
@@ -99,4 +100,4 @@ List of every software/links related to cool things i like to do on my computer!
 - [Bspwm](https://github.com/baskerville/bspwm) - Tiling window manager
 
 ## Other
-- [Pandora](https://www.pandora.com) Music streaming website
+- [Pandora](https://www.pandora.com) - Music streaming website
