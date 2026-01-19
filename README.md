@@ -79,6 +79,7 @@ List of every software/links related to cool things i like to do on my computer!
 - [Chatterino](https://chatterino.com/) - Twitch chat client ([Source Code](https://github.com/chatterino/chatterino2))
 - [HexChat](https://hexchat.github.io/) - IRC client
 - [Obsidian](https://obsidian.md/) - Note taking software ([Source Code](https://github.com/obsidianmd))
+- [Joplin](https://joplinapp.org/) - Another note taking software ([Source Code](https://github.com/laurent22/joplin/))
 - [Voicemeeter (Banana)](https://vb-audio.com/Voicemeeter/banana.htm) - Virtual Audio Mixer software
 - [Audacity](https://www.audacityteam.org/) - Audio editing & recording software ([Source Code](https://github.com/audacity))
 - [Vencord](https://vencord.dev/) - Discord client Mod ([Source Code](https://github.com/Vendicated/Vencord))
