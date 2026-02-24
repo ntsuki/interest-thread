@@ -72,6 +72,7 @@ List of every software/links related to cool things i like to do on my computer!
 - [Upscayl](https://upscayl.org/) - Free & Open-Source AI Image Upscaler ([Source Code](https://github.com/upscayl/upscayl))
 - [YACReader](https://www.yacreader.com/) - Comic/Manga reader ([Source Code](https://github.com/YACReader/yacreader))
 - [Krita](https://invent.kde.org/graphics/krita) - Free & Open-Source digital art software
+- [Lossless Cut](https://mifi.no/losslesscut/) - Lightning fast lossless video/audio editing software ([Source Code](https://github.com/mifi/lossless-cut))
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Video Editing Software
 - [Gimp](https://www.gimp.org/) - GNU Image Manipulation Program
 - [Aseprite](https://www.aseprite.org/) - Animated sprite editor & Pixel Art Tool ([Source Code](https://github.com/aseprite/aseprite/))
