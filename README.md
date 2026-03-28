@@ -90,6 +90,7 @@ List of every software/links related to cool things i like to do on my computer!
 - [Steam Achievement Manager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager
 - [LocalSend](https://localsend.org) - Open source cross-platform file sharing software ([Source Code](https://github.com/localsend/localsend))
 - [Docker](https://www.docker.com/) - Container ecosystem software ([Source Code](https://github.com/docker))
+- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - A HDD/SSD utility software which supports a part of USB, Intel RAID and NVMe ([Source Code](https://github.com/hiyohiyo/CrystalDiskInfo))
 
 ## Linux specific
 - [RMPC](https://github.com/mierak/rmpc) - Terminal based Music Player Daemon client
