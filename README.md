@@ -56,7 +56,6 @@ List of every software/links related to cool things i like to do on my computer!
 - [ShutterEncoder](https://www.shutterencoder.com/) - Video converter software
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) - Software to display technical information about media files
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Feature-rich command-line audio/video downloader
-- [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) - GUI for yt-dlp
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Free Bulk Program uninstaller ([Source Code](https://github.com/Klocman/Bulk-Crap-Uninstaller))
 - [Everything](https://www.voidtools.com/) - Search engine that locates files and folders by name instantly
 - [FilterKeys Setter](https://filterkeyssetter.com/) - Set faster repeat input keyboard strokes
