@@ -30,7 +30,7 @@ List of every software/links related to cool things i like to do on my computer!
 [FreeMediaHeckYeah](https://fmhy.net/)
 
 - [qBittorent](https://www.qbittorrent.org/) - Free Open-Source BitTorrent client ([Source Code](https://github.com/qbittorrent/qBittorrent))
-- ~~[Plex](https://www.plex.tv/) - Multimedia streaming service ([Source Code](https://github.com/plexinc))~~ - Use Jellyfin instead
+- *~~[Plex](https://www.plex.tv/) - Multimedia streaming service ([Source Code](https://github.com/plexinc))~~* - Use Jellyfin instead
 - [Jellyfin](https://jellyfin.org/) - Free Software Media System ([Source Code](https://github.com/jellyfin/jellyfin))
 - [1337x.to](https://1337x.to/home/) - Torrent search engine
 - [Real Debrid](https://real-debrid.com/) - Debrid service
